@@ -144,6 +144,13 @@ lets give it some style too to keep it a bit cleaner:
   display:block;
   margin: 0 auto;
 }
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
 ```
 
 
